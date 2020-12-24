@@ -1,0 +1,24 @@
+Testing Roles and Responsibility:
+
+1, understanding the software requirements.
+
+2, knowing how the end user will use the application.
+
+3, Creating test cases from the user stories or from test scenarios.
+
+4, Execute the test cases.
+
+5, Execute all the test case and report defects, define severity and priority for each defect.
+
+6, if defect found,report it to developer and fix it.
+
+7, perform the task again where the defect is found.
+
+8, Make sure that the application is defect free.
+
+9, Send the test reports to test lead.
+
+10, Carry out regression testing every time when changes are made to the code to fix defects.
+
+
+ 
