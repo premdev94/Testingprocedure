@@ -20,5 +20,5 @@ Testing Roles and Responsibility:
 
 10, Carry out regression testing every time when changes are made to the code to fix defects.
 
-
+These are the things Followed By Software Testers.
  
